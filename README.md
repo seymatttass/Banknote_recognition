@@ -1,4 +1,4 @@
-# banknote_recognition
+# Banknote_recognition
 Görme engelli bireyler için banknot tanıma uygulaması
 
 # Banknot Tespiti Projesi
